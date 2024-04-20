@@ -1,0 +1,8 @@
+GET customers_review/_search
+{
+  "query":{
+    "match_all":{
+      
+    }
+  }
+}
